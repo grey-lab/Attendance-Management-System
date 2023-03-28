@@ -1,6 +1,6 @@
 ## Attendance-Management-System
 
-" USER  " <br>
+For " USER  " <br>
 
 Username : Grey <br>
 
